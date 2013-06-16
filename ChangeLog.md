@@ -1,3 +1,7 @@
+## 2.5.2 (16 June 2013)
+
+* Forked and modified coding layouts
+
 ## 2.5.1 (17 May 2013)
 
 * Updating a reference to the plugin slug

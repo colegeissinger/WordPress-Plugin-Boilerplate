@@ -3,6 +3,8 @@
 
 The WordPress Plugin Boilerplate serves as a foundation and aims to provide a clear and consistent guide for building your WordPress plugins.
 
+Forked by Cole Geissinger and slightly modified to fit his coding layouts.
+
 ## Features
 
 * The Plugin Boilerplate is fully-based on the WordPress [Plugin API](http://codex.wordpress.org/Plugin_API).
